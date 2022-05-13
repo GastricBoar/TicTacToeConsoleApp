@@ -215,8 +215,6 @@ namespace TicTacToeConsoleApp2
             Console.ResetColor();
         }
 
-
-
         #endregion
     }
 }
