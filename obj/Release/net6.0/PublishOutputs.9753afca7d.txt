@@ -1,0 +1,6 @@
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Release\net6.0\TicTacToeConsoleApp 1.0\TicTacToeConsoleApp2.exe
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Release\net6.0\TicTacToeConsoleApp 1.0\TicTacToeConsoleApp2.dll
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Release\net6.0\TicTacToeConsoleApp 1.0\TicTacToeConsoleApp2.deps.json
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Release\net6.0\TicTacToeConsoleApp 1.0\TicTacToeConsoleApp2.runtimeconfig.json
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Release\net6.0\TicTacToeConsoleApp 1.0\TicTacToeConsoleApp2.pdb
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Release\net6.0\TicTacToeConsoleApp 1.0\Figgle.dll

@@ -1,0 +1,17 @@
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Debug\net6.0\TicTacToeConsoleApp2.exe
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Debug\net6.0\TicTacToeConsoleApp2.deps.json
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Debug\net6.0\TicTacToeConsoleApp2.runtimeconfig.json
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Debug\net6.0\TicTacToeConsoleApp2.dll
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Debug\net6.0\TicTacToeConsoleApp2.pdb
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.csproj.AssemblyReference.cache
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.AssemblyInfoInputs.cache
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.AssemblyInfo.cs
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.dll
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\refint\TicTacToeConsoleApp2.dll
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.pdb
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.genruntimeconfig.cache
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\ref\TicTacToeConsoleApp2.dll
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\bin\Debug\net6.0\Figgle.dll
+D:\Dox\Coding\Repos\TicTacToeConsoleApp2\TicTacToeConsoleApp2\obj\Debug\net6.0\TicTacToeConsoleApp2.csproj.CopyComplete
